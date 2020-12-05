@@ -80,10 +80,7 @@ def upload():
         basepath = os.path.dirname(__file__)
         file_path = os.path.join(
             basepath, 'uploads', secure_filename(f.filename))
-        try:
-            os.mkdir(os.path.join(basepath, 'uploads'))
-        except:
-            pass
+        
         f.save(file_path)
 
         # Make prediction
