@@ -1,12 +1,12 @@
 # Deep-Learning-Car-Brand
-
+classifies cars of different brands using transfer learning technique Resnet-50. Here Transfer learning recognizes car brands of 3 different brands(i.e. Audi/Lamborghini/Mercedes). For the training set we used 80 images and for validation set 52 images. 
 
 <br>
 
 ### ScreenRecording Clip of Live App.
 [![Demo Doccou alpha](https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/Car%20Brand%20Classifier%20GIF.gif)](http://ec2-18-220-203-245.us-east-2.compute.amazonaws.com:8080)
 
-## Web App and Deployment
+### Web App and Deployment
 
 This project uses Flask for the web app and its deployment is done on AWS Ec2.
 
@@ -14,13 +14,13 @@ This project uses Flask for the web app and its deployment is done on AWS Ec2.
 
 
 
-## ScreenShots:
+### ScreenShots:
 
-### Landing Page-
+#### Landing Page-
 
 <a href="http://ec2-18-220-203-245.us-east-2.compute.amazonaws.com:8080" target="_blank"><img src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/Car%20Brand%20Classifier%20Screenshot1.PNG" width=80% height=40% > </a>
 
-### Result-
+#### Result-
 
 <a href="http://ec2-18-220-203-245.us-east-2.compute.amazonaws.com:8080" target="_blank"><img src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/Car%20Brand%20Classifier%20Screenshot2.PNG" width=80% height=40% > </a>
 
