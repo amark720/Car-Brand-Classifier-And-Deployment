@@ -12,7 +12,7 @@ This project uses Flask for the web app and its deployment is done on AWS Ec2.
 ## Live Project Link: http://ec2-18-220-203-245.us-east-2.compute.amazonaws.com:8080
 
 ### Click on the Below Gif to See Full ScreenRecording.
-[![Demo Doccou alpha](https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/Car%20Brand%20Classifier%20GIF.gif)](https://youtu.be/KkRC8GODySI)
+[![Demo Doccou alpha](https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/Car%20Brand%20Classifier%20GIF.gif)](http://ec2-18-220-203-245.us-east-2.compute.amazonaws.com:8080)
 
 ## ScreenShots:
 
