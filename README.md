@@ -2,8 +2,9 @@
 
 
 <br>
-### ScreenRecording Clip of Live App.
+### ScreenRecording Clip of Live App.<br>
 [![Demo Doccou alpha](https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/Car%20Brand%20Classifier%20GIF.gif)](http://ec2-18-220-203-245.us-east-2.compute.amazonaws.com:8080)
+
 ## Web App and Deployment
 
 This project uses Flask for the web app and its deployment is done on AWS Ec2.
