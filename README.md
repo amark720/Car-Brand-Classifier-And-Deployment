@@ -12,7 +12,7 @@ This project uses Flask for the web app and its deployment is done on AWS Ec2.
 
 ## Live Project Link: http://ec2-18-220-203-245.us-east-2.compute.amazonaws.com:8080  
 
-#### [ Update ] The above Link will not work now as I've Stopped the AWS Instance as the AWS services are Chargeable and it will incur huge cost if kept the ec2 instance in a running state Unnecessarily.
+#### [ Update ] The above Link will not work after Feb 2021 as I'll stop the AWS Instance because the AWS services are Chargeable and it will incur huge cost if kept the ec2 instance in a running state Unnecessarily.
 
 
 
